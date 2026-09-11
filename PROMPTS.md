@@ -39,3 +39,5 @@ Recorded 2026-09-11 from human maintainer. PR: pending bootstrap publication. Co
 > GPLv3
 
 Recorded 2026-09-11 from human maintainer. PR: pending bootstrap publication. Selects GPLv3 for original repository content.
+
+Publication reference (2026-09-11): the bootstrap prompts recorded above produced https://github.com/machinapractica/.github/pull/1. This resolves their earlier pending PR references without changing historical prompt text.
